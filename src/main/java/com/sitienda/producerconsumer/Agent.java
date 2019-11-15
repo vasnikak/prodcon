@@ -3,7 +3,7 @@
  *
  * prodcon: a producer/consumer framework for Java
  */
-package com.sitienda.concurrency.producerconsumer;
+package com.sitienda.producerconsumer;
 
 /**
  * Abstract class, that will be inherited by the producers and the consumers.

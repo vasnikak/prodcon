@@ -3,8 +3,11 @@
  *
  * prodcon: a producer/consumer framework for Java
  */
-package com.sitienda.concurrency.producerconsumer;
+package com.sitienda.producerconsumer;
 
+import com.sitienda.producerconsumer.ProducerAction;
+import com.sitienda.producerconsumer.ConsumerAction;
+import com.sitienda.producerconsumer.ProdConController;
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.AfterAll;
 import org.junit.jupiter.api.BeforeEach;

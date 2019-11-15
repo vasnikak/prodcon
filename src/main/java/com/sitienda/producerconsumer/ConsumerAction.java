@@ -3,7 +3,7 @@
  *
  * prodcon: a producer/consumer framework for Java
  */
-package com.sitienda.concurrency.producerconsumer;
+package com.sitienda.producerconsumer;
 
 /**
  * The interface for a consumer's action.
