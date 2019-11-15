@@ -111,7 +111,6 @@ class Consumer<T> extends Agent<T> {
             }
         } catch (InterruptedException e) {
             System.out.println(e);
-            System.exit(1);
         }
     }
     
